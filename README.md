@@ -1,4 +1,4 @@
-![Super Optimize](https://i.imgur.com/54nFsLY.png)
+![Super Optimize](https://i.imgur.com/yAhu1tv.png)
 
 # Information
 Super Optimized is a Minecraft optimized mod pack for low profile PC
