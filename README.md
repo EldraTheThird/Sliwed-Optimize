@@ -8,7 +8,7 @@
         *Fabric*: 1.16.5/1.17.1/1.18.2
 - Update: now all future versions will be named **_"Sliwed"_** instead of ~~"Super Optimized"~~.
 ## Update
-- I fixed the error that Quilt mod could not be installed :D and now you can install it in this modpack
+- I solved the problem of not being able to install Quilt's mod into the modpack :D Now you can install it
 ## License
 - [MIT](https://cdn.modrinth.com/licenses/mit.txt)
 - You can copy/make a fork or use in your video. As long as you put credit in the Description or in the Comments
