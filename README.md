@@ -4,16 +4,15 @@
 - Sliwed Minecraft is a **optimize modpack** designed for low-ends PC
 - Based on [Simply Optimized](https://modrinth.com/modpack/sop), but adds some QoL features such as zoom, shaderpack, dynamic light,...
 - Version support:\
-        *Forge*: 1.12.2/1.16.5/1.17.1/1.18.2\
+        *Forge*: 1.12.2/1.16.5/~~1.17.1~~/1.18.2\
         *Fabric*: 1.16.5/1.17.1/1.18.2
-- Update: now all future versions will be named **_"Sliwed"_** instead of ~~"Super Optimized"~~.
-## Update
-- I solved the problem of not being able to install Quilt's mod into the modpack :D Now you can install it
+# UPDATE!!!
+- Completely removed versions prior to Fabric/Quilt 1.18.2 v1.3 because of the lack of quite a few mods (I forgot to check lmao)
+- I also started reworking the Sliwed versions, and I started with 1.19.2 and 1.16.5
 ## License
 - [MIT](https://cdn.modrinth.com/licenses/mit.txt)
-- You can copy/make a fork or use in your video. As long as you put credit in the Description or in the Comments
+- You can copy/make a fork or use in your video (as long as you put credit in the Description or in the Comments)
 - I would appreciate it if you respect the creator of this modpack (is me)
 ## Donation?
 - I make this modpack for _free_, I don't need support. I do it for everyone who has a low-end PC but wants to play the game smoothly (I'm also a part, bruh)
-
 - Thanks for using the modpack I made. Wish you have the best experience
