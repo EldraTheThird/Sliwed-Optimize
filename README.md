@@ -7,8 +7,9 @@
         *Forge*: 1.12.2/1.16.5/~~1.17.1~~/1.18.2\
         *Fabric*: 1.16.5/1.17.1/1.18.2
 # UPDATE!!!
-- Completely removed versions prior to Fabric/Quilt 1.18.2 v1.3 because of the lack of quite a few mods (I forgot to check lmao)
-- I also started reworking the Sliwed versions, and I started with 1.19.2 and 1.16.5
+- Well :/ I would like to correct that I will do 1.19.2 and 1.18.2 first, and I have bad news:  
+My PC monitor is broken, and it's still not fixed (2 weeks since it broke) and I'm using an old laptop to continue making modpacks ;-; (i5 5300U, 8GB RAM and 14inch monitor with FullHD resolution)
+## License
 ## License
 - [MIT](https://cdn.modrinth.com/licenses/mit.txt)
 - You can copy/make a fork or use in your video (as long as you put credit in the Description or in the Comments)
