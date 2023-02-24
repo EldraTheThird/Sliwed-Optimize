@@ -7,8 +7,9 @@
         *Forge*: 1.12.2/1.16.5/~~1.17.1~~/1.18.2\
         *Fabric*: 1.16.5/1.17.1/1.18.2
 # UPDATE!!!
-- Well :/ I would like to correct that I will do 1.19.2 and 1.18.2 first, and I have bad news:  
-My PC monitor is broken, and it's still not fixed (2 weeks since it broke) and I'm using an old laptop to continue making modpacks ;-; (i5 5300U, 8GB RAM and 14inch monitor with FullHD resolution)
+- After nearly 3 weeks of waiting, my monitor has arrived :D and now I can continue to make modpacks on my beloved PC
+- And the next version will be Fabric 1.18.2 v1.5 (in this version, Quilt Loader has an unknown problem, so I will use Farbic Loader instead)
+- 1.19.2/3 v1.5 will also be available (v1.4 is not available ;\)
 ## License
 ## License
 - [MIT](https://cdn.modrinth.com/licenses/mit.txt)
