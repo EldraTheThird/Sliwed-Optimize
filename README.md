@@ -9,8 +9,7 @@
 # UPDATE!!!
 - After nearly 3 weeks of waiting, my monitor has arrived :D and now I can continue to make modpacks on my beloved PC
 - And the next version will be Fabric 1.18.2 v1.5 (in this version, Quilt Loader has an unknown problem, so I will use Farbic Loader instead)
-- 1.19.2/3 v1.5 will also be available (v1.4 is not available ;\)
-## License
+- 1.19.2/3 v1.5 will also be available (v1.4 is not available, sorry about that)
 ## License
 - [MIT](https://cdn.modrinth.com/licenses/mit.txt)
 - You can copy/make a fork or use in your video (as long as you put credit in the Description or in the Comments)
