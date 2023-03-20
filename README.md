@@ -7,6 +7,7 @@
         - *Forge and Fabric/Quilt*: 1.18.2, 1.19.2, 1.19.3  
         - Remove 1.12.2, 1.17.1 and 1.16.5 :/ (old versions I still have on this modpack's Github Release page)
 # UPDATE!!!
+- Currently I am preparing for the camping trip on March 26 :D This is the founding day of Ho Chi Minh Communist Youth Union, so i will stopped the project until I'm done camping
 - Changed the name from "Sliwed Minecraft" to "Sliwed Optimize"
 ## License [MIT](https://cdn.modrinth.com/licenses/mit.txt)
 - You can copy/make a fork or use in your video (as long as you put credit in the Description or in the Comments)
