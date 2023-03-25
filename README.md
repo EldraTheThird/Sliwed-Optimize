@@ -7,8 +7,7 @@
         - Fabric 1.18.2, 1.19.2, 1.19.3  
         - Remove all Forge versions :/ (old versions I still have on this modpack's Github Release page)
 # UPDATE!!!
-- Currently I am preparing for the camping trip on March 26 :D This is the founding day of Ho Chi Minh Communist Youth Union
-- Changed the name from "Sliwed Minecraft" to "Sliwed Optimize"
+- Camp done, time to restart the project!!!
 ## License [MIT](https://cdn.modrinth.com/licenses/mit.txt)
 - You can copy/make a fork or use in your video (as long as you put credit in the Description or in the Comments)
 - I would appreciate it if you respect the creator of this modpack (is me)
