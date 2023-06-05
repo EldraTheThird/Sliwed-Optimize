@@ -8,7 +8,7 @@
 - Version support:\
         - Fabric ~~1.18.2~~, 1.19.2, 1.19.3 and 1.19.4!!
 # UPDATE!!!
-- **Stopped updating** new version with 1.18.2, I will focus on developing for *1.19x and above instead*
+- **Stopped updating** new version for 1.18.2, I will focus on developing for *1.19x and above instead*
 - All old versions are stored on Github Release, if you want to reminisce :>
 ## License [MIT](https://cdn.modrinth.com/licenses/mit.txt)
 - You can copy/make a fork or use in your video (as long as you put credit in the Description or in the Comments)
