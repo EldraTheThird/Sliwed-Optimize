@@ -1,4 +1,6 @@
-![Sliwed Optimize](https://i.imgur.com/QMe8yZj.png)
+<p align="center">
+  <img src="https://i.imgur.com/5qM66i5.png" alt="Sliwed Logo">
+</p>
 
 ## Information
 - Sliwed Optimize is a **optimize modpack** designed for low-ends PC
